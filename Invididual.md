@@ -1,4 +1,4 @@
-# github-workflow-basics
+# Individual workflow
 
 ## Individual workflow
 
