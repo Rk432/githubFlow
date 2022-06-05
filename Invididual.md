@@ -1,6 +1,5 @@
 # Individual workflow
-
-## Individual workflow
+working alone in your own repo
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/74586376/172043374-762e04a3-ab7c-475a-854c-f735946657b0.png">
 
