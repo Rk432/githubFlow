@@ -77,9 +77,11 @@ if merge conflicts - example :
 
 <img width="275" alt="image" src="https://user-images.githubusercontent.com/74586376/172184167-83284c54-48d9-40ec-8d94-1816337ebc4e.png">
 
-- from the colored lines in above image keep whatever changes you want (dont forget to remove the HEAD , upstream , === lines showed to indicate conflicts)
+- from the colored lines in above image keep <code>whatever changes/final file state you want</code> (dont forget to remove the HEAD , upstream , === lines showed to indicate conflicts)
 
-<img width="275" alt="image" src="https://user-images.githubusercontent.com/74586376/172185506-59d424e3-60be-4d90-b3fa-85412893f62a.png">
+Example: <img height="120" alt="image" src="https://user-images.githubusercontent.com/74586376/172185506-59d424e3-60be-4d90-b3fa-85412893f62a.png">or<img height="120" alt="image" src="https://user-images.githubusercontent.com/74586376/172190465-8e55f602-b8a3-425c-8c78-623c8bc92bc1.png">or<img height="120" alt="image" src="https://user-images.githubusercontent.com/74586376/172190860-abffd490-5ed2-4043-8d2e-623f086693b9.png">
+
+
 
 - then <code>add commit</code> 
 
