@@ -29,7 +29,7 @@ for example:
 ### NOTE on PULL PUSH
 - push is always easier than pull as push only has to retain the files it has made changes to.
 - pull however has to compare changes and if github compare-strategies work it merges them , else it throws merge conflicts to be resolved
-- hence when youu 'PULL from upstream' or 'send PULL request' it can throw merge conflicts
+- hence when you 'PULL from upstream' or 'send PULL request' it can throw merge conflicts
 - but  resolving conflicts at local level is better than sending conflicts to organization to resolve hence we follow the below workflow.
 
 ## Optimal workflow
