@@ -88,7 +88,7 @@ Then follow commands
 ```
 git push origin main
 
-send pull request to organization repo from github
+#send pull request to organization repo from github
 ```
 
 
