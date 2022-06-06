@@ -26,7 +26,11 @@ for example:
 - some changes might conflict with employee2's changes and this will throw a merge conflict error
 - this needs to be resolved manually
 
-to avoid this we follow a simple rule <code> always PULL before PUSH </code>
+### NOTE on PULL PUSH
+- push is always easier than pull as push only has to retain the files it has made changes to.
+- pull however has to compare changes and if github compare-strategies work it merges them , else it throws merge conflicts to be resolved
+- hence when youu 'PULL from upstream' or 'send PULL request' it can throw merge conflicts
+- but  resolving conflicts at local level is better than sending conflicts to organization to resolve hence we follow the below workflow.
 
 ## Optimal workflow
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/74586376/172187728-8feee95b-3ae3-45f6-8068-4e4b1deca215.png">
