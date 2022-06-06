@@ -86,7 +86,7 @@ if merge conflicts - example :
 Then follow commands
 
 ```
-git push origin main
+git push origin <current-branch>
 
 #send pull request to organization repo from github
 ```
